@@ -1,6 +1,6 @@
 import React from "react";
 import ExpenseDate from "./ExpenseDate";
-import "./ExpenseItems.css";
+import "../UI/ExpenseItems.css";
 
 function ExpenseItems(props) {
   return (
